@@ -60,15 +60,27 @@ h1{
 /* Incio estilos educación */
 
 #logo_ok{
-    max-width: 60%;
+    width: 60%;
+}
+.logo_elearning{
+    width: 60%;
 }
 
 @media all and (min-width: 599px) and (max-width:1023px) {
     #logo_ok{
-        width: 20%;
+        width: 100%;
+    }
+    .logo_elearning{
+        width: 100%;
     }
 }
 
-/* Fin estilos acerca de... */
+@media all and (max-width: 599px){
+    #secundaria, #php_avanzado, #javascript, #python{
+        text-align: center;
+    }
+}
+
+/* Fin estilos educación */
 
 
