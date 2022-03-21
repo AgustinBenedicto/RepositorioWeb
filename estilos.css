@@ -1,0 +1,66 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Incio estilos header */
+
+h1{
+    font-size: 20px;
+}
+
+#logo{
+    background-color: blue;
+    
+}
+
+#programa{
+    background-color: lightblue;
+    
+}
+
+#facebook{
+    background-color: gray;
+    
+}
+
+#login{
+    background-color: aqua;
+}
+
+#banner{
+    background-color: black;
+    color: white;
+    
+}
+
+/* Fin estilos header */
+
+/* Incio estilos acerca de... */
+
+#perfil{
+    background-color: yellow;
+    
+}
+
+#nombre{
+    background-color: red;
+    
+    
+}
+#info{
+    background-color: green;  
+}
+
+#info2{
+    background-color: brown;
+}
+
+/* Fin estilos acerca de... */
+
+/* Incio estilos educación */
+
+
+
+/* Fin estilos acerca de... */
+
+
