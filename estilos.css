@@ -1,11 +1,16 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(231, 224, 224, 0.918);
 }
 
 /* Incio estilos header */
 
 h1{
     font-size: 20px;
+}
+
+h2{
+    margin-top: 10px;
 }
 
 #logo{
@@ -59,11 +64,25 @@ h1{
 
 /* Incio estilos educación */
 
+
+img{
+    border-radius: 30px;
+}
+
 #logo_ok{
     width: 40%;
 }
 .logo_elearning{
     width: 40%;
+}
+#secundaria, #php_avanzado, #javascript, #python{
+    text-align: center;
+}
+
+.separador{
+    border-top: 1px solid rgb(180, 178, 178);
+    border-bottom: 1px solid rgb(180, 178, 178);
+    padding-top: 10px;
 }
 
 @media all and (min-width: 599px) and (max-width:1023px) {
